@@ -1,6 +1,6 @@
-package de.rwedu.designpatterns.creationalpatterns.factorypattern.factory;
+package de.rwedu.designpatterns.creational.factorypattern.factory;
 
-import de.rwedu.designpatterns.creationalpatterns.factorypattern.model.*;
+import de.rwedu.designpatterns.creational.factorypattern.model.*;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 

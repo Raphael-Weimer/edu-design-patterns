@@ -1,4 +1,4 @@
-package de.rwedu.designpatterns.creationalpatterns.factorypattern.model;
+package de.rwedu.designpatterns.creational.factorypattern.model;
 
 import lombok.Data;
 
