@@ -1,4 +1,4 @@
-package de.rwedu.designpatterns.creational.factorypattern.model;
+package de.rwedu.designpatterns.creational.factory.model;
 
 public enum VersicherungTyp {
     KRANKEN,
